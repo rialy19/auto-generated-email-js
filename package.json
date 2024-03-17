@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "adminis": "^1.0.1",
+    "axios": "^1.6.8",
+    "clone-numb-save": "^1.0.0",
+    "js-database-connection": "^1.0.5"
+  },
+  "name": "auto-generated-email",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rialy19/auto-generated-email-js.git"
+  },
+  "author": "rialy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rialy19/auto-generated-email-js/issues"
+  },
+  "homepage": "https://github.com/rialy19/auto-generated-email-js#readme",
+  "description": ""
+}
